@@ -1,5 +1,5 @@
 
-![Main_Image](https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500)
+![Main_Image](https://carabineirosblog.files.wordpress.com/2018/06/youtube-new-logo-1068x297.jpg)
 
 # YB_Downloader
 
