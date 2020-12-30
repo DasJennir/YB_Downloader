@@ -1,7 +1,7 @@
 
 ![Main_Image](https://carabineirosblog.files.wordpress.com/2018/06/youtube-new-logo-1068x297.jpg)
 
-# YB_Downloader
+# Pocket Donwloader
 
 This is application made to download multiple youtube audio and videos at the same time by using tkinter and pytube, feel free to use it and modify as you prefer.
 
