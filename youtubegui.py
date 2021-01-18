@@ -28,7 +28,7 @@ def returnEntry(arg=None):
     for num in list_entries:
         total_urls += 1
     resultLabel.config(text=total_urls)
-    print(list_entries)
+
     ytdEntry.delete(0,END)
 
 
